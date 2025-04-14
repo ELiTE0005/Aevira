@@ -2,7 +2,6 @@
 coming soon
 
 
-NEXT_PUBLIC_HEALTH_CARE = 0x1A69566b3a5aFEf4b7a16c3f5f91F99BDdE2514E  (holesky 1st deploy)
 
-
-NEXT_PUBLIC_HEALTH_CARE = 0x5FbDB2315678afecb367f032d93F642f64180aa3 (local hardhat deploy)
+.env.local
+NEXT_PUBLIC_HEALTH_CARE =0x5FbDB2315678afecb367f032d93F642f64180aa3 (local hardhat deploy)
